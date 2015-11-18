@@ -1,2 +1,2 @@
 # NeuroSciPy
-A collection of common analysis methods for neuroscience
+A collection Python code for common analysis methods in neuroscience.
